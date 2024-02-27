@@ -1,0 +1,18 @@
+Algoritmo Ejercicio2
+	Definir CamMoneda, dolar, colon Como Entero;
+	
+	Escribir "Ingrese la cantidad de dolares: "
+	Leer dolar;
+	
+	//Lenctura y guardado de las variables
+	
+	colon = 650;
+	CamMoneda = (colon*dolar);
+	
+	//Proceso para crear el cambio de dolares a colones
+	
+	Imprimir "Su cambio de moneda es igual a: " CamMoneda;
+	
+	//Impresion de las variables anteriores
+	
+FinAlgoritmo
